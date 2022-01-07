@@ -2,6 +2,8 @@
 
 Aplicativo Buscar de GIFS
 
+Aplicativo desenvolvido em Flutter
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
